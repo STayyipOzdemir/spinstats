@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746221064131",
+    "project_id": "spinstat-80020",
+    "storage_bucket": "spinstat-80020.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746221064131:android:0625b743a53a4c22c47776",
+        "android_client_info": {
+          "package_name": "com.spinstat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiBVKwEipur17LUHzfB4cIChZeZFrPXAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
